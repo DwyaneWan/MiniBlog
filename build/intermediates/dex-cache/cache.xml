@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/25c1241246de3aca3b0bf8953a473440f1ff60cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a966b6bbd307d05881f57db517a509783465740/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/296e5797a19d08f9517b160d58c29e23193b825f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_af704a2fc577b7db8d35bdcb892a08f353f70edd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/66b786493635fb820a33f73ad5a7b84ed7b4e52f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efafe65742f35b84ec34d71c1db7ac6d4d45662a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/a872dab140daac8ed88f2d98216bbc49ea2b3080/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a00e10b8a109c0d0121b724ad69f3a4d4e22cfcc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/75049ee1d3b77d45b65b28f96655517c8fcc1d1b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a4b2e6fbcb7f9302d947fdc133ecd0ef2cf2ded/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/4f4686f68fb93cca618e5c057570d3a41f2bec36/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff7c360a921004748f46f27aa33a37311909a5e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/42bbe02b38dbdb2d94d71e07da1bc5e3cf970dab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d7a7fc4668eb47ac8436c59258e70136e3ff651/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/6ac14dd4793f884c1480abe12c6c6b872c6b1414/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23687460467a03bb35a287c139a1d745abc81095/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_e39969701dcba7ceabcac835a471aedf395ca616/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/716cc6910b0cdc96a4fe5caed7a3c34fb2421d91/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_078f1a6a7a72fb50d1012444b3155656e63dff7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/73ec6e3660bcea3e7f9f8182f4f00546cd87b6a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_08ac2822dc60e88b834de543e3b999e2c5e02cb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/473cc93eeaea02fde293fc685b6e550a9d4b6965/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f988759bd907c988709f523448ba1d5e9a8a4245/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e73e6d94ad9dc2a00c3168d7a02a465780ec1f17">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c1458ced40dfcaa09be5813ac0e74056e18b8c4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/d48e6fd48c391b390701b575023cace0b1a64fdc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c743a2fd48eaf8ea5eac0bdfa23c654ca4d0fd74">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf15bdb42cd1ce77104c2e3927661f78d11a7c59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/ab1d0ccd9abab509cf6d7600016c2042437857f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_827c7b436a9c9e634d8394595792fbca112c02af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/3649b972d3123c11dcf42bd0b8fa002d9045b1b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_522def2db25760cc7287edc514a0e831f3e8eea7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_330e147798b5ee672198df1c95f13a5b68500dc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/d2ffed9568b1ca2c301a85c37e37d23d0ba0b760/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7bf4b132b1d89a1000d615087de2b69ef0fc0be5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_72cb55a9cdc7eab9a287ace056ba2e00672a9ef2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_bffcc345e92f8dbfa823f94e58b31a5d2829aebd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/fc839cd6425633d243dadd166e7d0ee8118eae01/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7134377d5deee82d6094b3df6ca31136efd6cc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/8150c593984ea16ac2fbd706f2e82b81e3d5726f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0cd73afa638c478065b6f61c121a31819cc77bb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/0f274fe1c570afdc4f2a826ab1e8f86fbd6118b6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3b13b092abc01309e88a63babaa9f5b082b1c852">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_00bc5c6c1c034ef78f6a2832113b82ffad1a637a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/ff95afa44d7ec1fb3d4f6641d10329549c60ccbe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b8e85175b4ee3eb20e7e433d4bc635297cd3109/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/bc0f7dd4b079d71e76be72bbd9af60f605473018/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75862870f3b23656c2b761d6f521ee9b04206481/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/36b86687692690442fe7d38f2aa61195881f50a9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a95d45968d986fc886a3d5a71716ee974fbcb028/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/2f7ffdf6b404a42edaff4ea5bb508b84cd77c84e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f37b0826935732f75da2ecef484b48f13b191cf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/8da723f6eb7a2513d0effb34cb74ba98645b5eb3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0fcfa5a0e151e77d2d9bf0cf21a3ddbd71e40194/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/4630a03480977ccdc2548530c62e4e4caf6ca10c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="acb0b23366d6d35b86d6564fcabf3a2ef439f9af">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74a2c96fd3860f24b8fa8808f151dab3517e1be7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/c4bfb26bce409c91782dd62c1198669e5b7c6345/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c81a6bedc261bdcdaa6f3a07c711aa918a7569b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/0ab50d4e8d9af1e528f8c948859f631d21b66df9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c59bda71e07909001be17bc6dab846cba155708/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/86ca1406df9e3e533cb1e150e474928d9d7c2c09/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9bd4022eb2db8c7d7d8827a79bec6bbc7e79b964/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/2948440c98c6b9d590b53d38e2db6374d5650253/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f834b2899771328358099747f558189e170ddec2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwyane/.android/build-cache/c056b37c0f3b3f83bdc4218929bf6c1a998cef1c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/dwyane/Ground/Projects/GitHub/MiniBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d44805f7f8af381892ab95d3b0618271adec8295/classes.dex" />
+    </item>
+
+</items>
