@@ -1,7 +1,7 @@
 package com.example.ekene.blogzone;
 
 /**
- * Created by EKENE on 11/4/2017.
+ * Created  by  EKENE  on  11/4/2017.
  */
 
 public class Blogzone {
