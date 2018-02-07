@@ -1,7 +1,7 @@
 # MiniBlog
 Gatech CS8803 Assignment 3 Peer Programming Project
 ### Introduction
-MiniBlog is an Android app and is a mini online community where you can post your own posts, view others' posts, and delete your posts.
+MiniBlog is an Android app and is a mini online community where you can post your own posts, view others' posts, and delete your posts. All users' posts can be seen.
 It uses [Firebase](https://firebase.google.com/) as the real-time cloud database to share data across different devices.
 Miniblog is done following this [tutorial](https://medium.com/@peterekeneeze/build-a-simple-blog-app-with-firebase-in-android-studio-b6482275408) by Peter Ekene Eze.
 ### Install
